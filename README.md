@@ -1,4 +1,4 @@
-# Recipe Search Engine
+# Culinary Compass
 
 ## Table of Contents
 - [Content Description](#content-description)
@@ -73,3 +73,4 @@ If you'd like to contribute to the project, follow these steps:
 
 ## License
 This project is under the MIT License - see the [LICENSE](https://opensource.org/license/MIT) file for details.
+
